@@ -27,4 +27,5 @@ Saleel Khisti
     <li>Computer Aided Designs for Robot Mechanics</li>
   </ul>
 </div>
-
+<div>Examples:</div>
+<img src="image.png" size="32x32">
