@@ -15,9 +15,9 @@ SALEEL KHISTI
 </div>
 <div>Projects:</div>
 <div>Khisti Dental Center Website (In development)</div> 
-  <img src="">
+  <img src="image.png">
 <div>VEX IQ Robotics CAD</div>
-  <img src="image.png" width="500px">
+  <img src="cadimage.png" width="500px">
   
 <div>Achievements:</div>
 <div>
