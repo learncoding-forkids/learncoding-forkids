@@ -1,5 +1,8 @@
-Saleel Khisti
-<div> * Student engineer involved and interested in engineering, robotics, CAD, and coding to solve real world problems. </div>
+SALEEL KHISTI
+
+<div> Student engineer • Web Developer • Designer</div>
+
+<div>I am a student engineer dedicated to finding and solving real world problems in my community. 
 <div>Skills:</div>
 <div>
   <ul>
@@ -10,8 +13,12 @@ Saleel Khisti
     <li>Git/github</li>
   </ul>
 </div>
-<div>Small Local Nonprofit Apex Code to help younger kids in coding fundamentals.</div>
-<div>3 years of VEX IQ Robotics winning the Innovate award.</div>
+<div>Projects:</div>
+<div>Khisti Dental Center Website (In development)</div> 
+  <img src="">
+<div>VEX IQ Robotics CAD</div>
+  <img src="image.png" width="500px">
+  
 <div>Achievements:</div>
 <div>
   <ul>
